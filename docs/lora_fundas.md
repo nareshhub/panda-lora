@@ -66,6 +66,6 @@ Typically, LoRA adapts Query and Value projections, while the original attention
 
 Result: Approximately 71% reduction in GPU memory, enabling training with fewer GPUs and smaller checkpoints.
 
-## 7. Interview Summary
+## 7. Summary
 
 LoRA is a parameter-efficient fine-tuning technique that freezes pre-trained model weights and trains only small, low-rank matrices within selected Transformer layers. It reduces trainable parameters, GPU memory, and computational costs while supporting multiple task-specific adapters without retraining the entire model.

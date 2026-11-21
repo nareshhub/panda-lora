@@ -1,0 +1,16 @@
+model_name: Qwen/Qwen2.5-0.5B-Instruct
+train_file: null  # optional JSONL with a 'text' field; otherwise built-in demonstration samples
+output_dir: outputs/panda-lora
+max_length: 256
+seed: 42
+train:
+  epochs: 1
+  batch_size: 1
+  gradient_accumulation_steps: 4
+  learning_rate: 0.0002
+  logging_steps: 1
+lora:
+  r: 8
+  alpha: 16
+  dropout: 0.05
+  target_modules: [q_proj, v_proj]

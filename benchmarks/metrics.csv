@@ -1,0 +1,1 @@
+run_id,model,method,rank,trainable_parameters,train_loss,train_runtime_seconds,peak_gpu_memory_gb,eval_loss,perplexity,notes

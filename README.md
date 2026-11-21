@@ -2,7 +2,7 @@
 
 # 🐼 PandaLoRA
 
-<img src="assets/Panda_with_Laptop.png" alt="PandaLoRA exploring neural networks and low-rank adapters" width="200" />
+<img src="assets/Panda_with_Laptop.png" alt="PandaLoRA exploring neural networks and low-rank adapters" width="300" />
 
 **Small Adapters. Powerful Models.**
 

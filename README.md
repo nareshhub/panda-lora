@@ -2,11 +2,11 @@
 
 # 🐼 PandaLoRA
 
-<img src="assets/Panda_with_Laptop.png" alt="PandaLoRA exploring neural networks and low-rank adapters" width="760" />
+<img src="assets/Panda_with_Laptop.png" alt="PandaLoRA exploring neural networks and low-rank adapters" width="200" />
 
 **Small Adapters. Powerful Models.**
 
-*An practical, open-source learning project exploring parameter-efficient fine-tuning of large language models using LoRA and QLoRA.*
+*A use-case-driven AI project focused on parameter-efficient LLM fine-tuning using LoRA and QLoRA, with model optimization, performance evaluation, and benchmarking..*
 
 </div>
 
